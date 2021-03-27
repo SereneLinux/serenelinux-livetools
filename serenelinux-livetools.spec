@@ -34,5 +34,6 @@ rm -rf $RPM_BUILD_ROOT
 %postun
 
 %files
+/usr/bin/fascode-gtk-bookmarks
 /usr/bin/serenelinux-gtk-bookmarks
 %changelog
