@@ -1,7 +1,7 @@
 Summary: serenelinux livetools
 Name: serenelinux-livetools
 Version: 1.0.3
-Release: 2%{?dist}
+Release: 3%{?dist}
 Group: User Interface/Desktops
 License: NONE
 Packager: kokkiemouse
